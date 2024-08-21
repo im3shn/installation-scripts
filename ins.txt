@@ -1,0 +1,1 @@
+sudo apt install i3 lightdm x11-server-utils pulseaudio git curl gnupg shotwell vlc timeshift neofetch tlp neovim tmux
